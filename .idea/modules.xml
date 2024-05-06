@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aflevering/Aflevering.iml" filepath="$PROJECT_DIR$/Aflevering/Aflevering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01 Tidskompleksitet/L01 Tidskompleksitet.iml" filepath="$PROJECT_DIR$/L01 Tidskompleksitet/L01 Tidskompleksitet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02 Binaere soegetraer/L02 Binaere soegetraer.iml" filepath="$PROJECT_DIR$/L02 Binaere soegetraer/L02 Binaere soegetraer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03 Map og Set/L03 Map og Set.iml" filepath="$PROJECT_DIR$/L03 Map og Set/L03 Map og Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04 Hashing/L04 Hashing.iml" filepath="$PROJECT_DIR$/L04 Hashing/L04 Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05 Hashing/L05 Hashing.iml" filepath="$PROJECT_DIR$/L05 Hashing/L05 Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06 Grafer/L06 Grafer.iml" filepath="$PROJECT_DIR$/L06 Grafer/L06 Grafer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07 Grafalgoritmer/L07 Grafalgoritmer.iml" filepath="$PROJECT_DIR$/L07 Grafalgoritmer/L07 Grafalgoritmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L08 Streams/L08 Streams.iml" filepath="$PROJECT_DIR$/L08 Streams/L08 Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRO3.iml" filepath="$PROJECT_DIR$/PRO3.iml" />
+    </modules>
+  </component>
+</project>
